@@ -306,6 +306,10 @@ footer {
     
 }
 
+.socialsimg {
+    width: 7%;
+}
+
 @media only screen and (min-width: 768px) {
     .nava {
         font-size: 30px;
@@ -756,7 +760,7 @@ footer {
                 }
 
                 .socialsimg {
-                    width: 2%;
+                    width: 3%;
                 }
     
   } 
